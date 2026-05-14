@@ -1,5 +1,5 @@
 ---
-title: "絶対にわかるPython 学習資料 後編"
+title: "【期間限定：無料公開】イラストで速攻理解IT入門Python - Part2"
 emoji: "🐍"
 type: "tech"
 topics: ["python", "初心者", "学習", "入門"]
@@ -10,7 +10,7 @@ published: false
 
 ## このシリーズについて
 
-この記事は「絶対にわかるPython 学習資料」の後編です。第16章から付録Eまでを扱います。
+この記事は「【期間限定：無料公開】イラストで速攻理解IT入門Python」の後編です。第16章から付録Eまでを扱います。
 
 - [前編: 第0章〜第15章](/articles/python-study)
 - [後編: 第16章〜付録E](/articles/python-study-02)

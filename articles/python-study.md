@@ -1,5 +1,5 @@
 ---
-title: "絶対にわかるPython 学習資料 前編"
+title: "【期間限定：無料公開】イラストで速攻理解IT入門Python - Part1"
 emoji: "🐍"
 type: "tech"
 topics: ["python", "初心者", "学習", "入門"]
@@ -14,6 +14,19 @@ published: false
 
 - [前編: 第0章〜第15章](/articles/python-study)
 - [後編: 第16章〜付録E](/articles/python-study-02)
+
+## はじめに
+初心者の方にも無理なく理解していただけるよう、学習の基礎となる内容をわかりやすく図で解説しています。
+これからの学びを支える一助になれば幸いです。
+
+著者：ライフハックゴリラ（x.com ⇒ @LifeHackGorilla）
+経歴：システムエンジニア歴5年以上
+
+企業でAI担当をしています。
+Kindleで複数の書籍を出版しています。Xをフォローしていただくと見逃さずにすむかもしれません。
+
+X ⇒ https://x.com/LifeHackGorilla
+
 
 ## 本資料の目的
 
