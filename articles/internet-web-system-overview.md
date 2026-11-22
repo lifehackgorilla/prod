@@ -13,6 +13,11 @@ published: true
 </style>
 ```
 
+> **🎟 クーポンのコード**（URL・有効期限・先着枠は、記事の末尾にもまとめています）
+> - 無料クーポン1：[`2DEF00F4858110F52417`](https://www.udemy.com/course/internet-web-system-overview/?couponCode=2DEF00F4858110F52417)（先着10名・2026年11月26日 19:17 まで）
+> - 無料クーポン2：[`6E48FC0380F589C574C5`](https://www.udemy.com/course/internet-web-system-overview/?couponCode=6E48FC0380F589C574C5)（先着100名・2026年12月22日 20:44 まで）
+> - 割引クーポン（1,500円）：[`AA08F8D0148C064E4415`](https://www.udemy.com/course/internet-web-system-overview/?couponCode=AA08F8D0148C064E4415)（2026年12月22日 20:45 まで）
+
 カフェの Wi-Fi につないだスマホで、ネットショップの商品リンクをタップする。ページが表示されるまで、およそ1秒です。
 
 スマホは、Wi-Fi につないだときに、すでに住所（IPアドレス）をもらっています。タップしてからの1秒のあいだに、名前を引き、相手とのつながりを作り、暗号の準備をして、注文書（リクエスト）を送っています。注文書はいくつものルーターをバケツリレーで渡り、お店のサーバーに届き、返事が同じように戻ってきます。
